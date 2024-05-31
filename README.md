@@ -1,0 +1,1 @@
+FM, LM, and MM ground teams have no platform which can provide fast and accurate data for tiktok parcel journey monitoring, currently they rely on daily reports sent via email. A semi real time data is needed so each fm,lm,and mm team can focus on parcels which have a high aging / experiencing backlog so that they can push it out as soon as possible.
